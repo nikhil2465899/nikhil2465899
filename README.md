@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]) -->
 <h1 align="center">Hi 👋, I'm Nikhil Gurav</h1>
 <h3 align="center">A passionate Fullstack developer and Android developer</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/94897817/213847069-f8e86dce-ee36-4ed7-977a-8f4ac8841ede.png)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/94897817/213847069-f8e86dce-ee36-4ed7-977a-8f4ac8841ede.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilgurav&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilgurav" /> </p>
 
 

@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikhilg73009399" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilg73009399?logo=twitter&style=for-the-badge" alt="nikhilg73009399" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Canteen Android App**
+- 🔭 I’m currently working on **.NET Developement**
 
 - 🌱 I’m currently learning **ReactJS , AngularJS ,DSA**
 
